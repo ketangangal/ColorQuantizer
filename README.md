@@ -1,2 +1,2 @@
 # ColorQantizer
-Color Qantization using k means clustering 
+Color Quantization using k means clustering 
